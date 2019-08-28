@@ -9,5 +9,7 @@ public class LiuaddApplication {
     public static void main(String[] args) {
         SpringApplication.run(LiuaddApplication.class, args);
     }
-
+    public void getHello(){
+        System.out.println("ssss");
+    }
 }
